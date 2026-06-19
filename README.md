@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Document Signature App
 
 Full-stack Document Signature App using FastAPI + React.
@@ -56,3 +57,7 @@ Then restart backend. You will register again and upload the PDF again.
 
 
 V6 fixes: Typed Name now clears old drawn signature and signed PDF no longer prints extra date/time text under the signature.
+=======
+# Sign-App-Project
+Document-sign-app
+>>>>>>> 8434d6f90052799dd1a94ef05385d12a02bce5f5
